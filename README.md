@@ -6,6 +6,6 @@ Some Descriptiom
 
  ## Local Development
 
- 1.Open index html in ypur browser
+ 1.Open index html in your browser
 
  
